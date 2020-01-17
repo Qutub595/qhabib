@@ -1,0 +1,14 @@
+{
+    "name": "Jshint",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "lint": "jshint app.js"
+    },
+    "devDependencies": {
+        "jshint": "^2.11.0"
+    },
+    "author": "",
+    "license": "ISC"
+}

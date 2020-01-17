@@ -1,0 +1,13 @@
+app.js: line 8, col 9, Expected '{' and instead saw 'doSomething'.
+app.js: line 17, col 15, Expected '===' and instead saw '=='.
+app.js: line 45, col 12, Avoid arguments.caller.
+app.js: line 46, col 11, Expected '{' and instead saw 'console'.
+app.js: line 48, col 11, Expected '{' and instead saw 'console'.
+app.js: line 48, col 23, Avoid arguments.caller.
+app.js: line 52, col 16, Confusing use of '!'.
+app.js: line 52, col 31, Avoid arguments.callee.
+app.js: line 62, col 9, 'x' is already defined.
+app.js: line 72, col 2, Missing semicolon.
+app.js: line 57, col 14, 'myUndefinedVar' is not defined.
+
+11 errors
